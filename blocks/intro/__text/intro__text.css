@@ -1,0 +1,15 @@
+.intro__text {
+    margin: 40px 0 0;
+    padding: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+
+.intro__text:nth-of-type(2n) {
+    font-size: 16px;
+    line-height: 163%;
+}
