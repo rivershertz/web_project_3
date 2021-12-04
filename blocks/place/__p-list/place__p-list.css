@@ -1,0 +1,6 @@
+.place__p-list {
+    margin: 0;
+    padding: 0;
+    grid-column: 2;
+    grid-row: span 2;
+}

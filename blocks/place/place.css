@@ -1,0 +1,13 @@
+.place {
+    margin: 80px 0 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    grid-template-rows: min-content min-content 1fr; 
+    grid-gap: 48px 40px;
+    
+}
+
+.place:nth-of-type(n1) {
+    margin: 0;
+}

@@ -1,11 +1,11 @@
-.intro__title {
-    width: 100%;
+.place__title {
     margin: 0;
     padding: 0;
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
-    font-size: 54px;
-    line-height: 58px;
+    font-size: 72px;
+    line-height: 76px;
     color: #FFFFFF;
+    max-width: 270px;
 }

@@ -1,0 +1,17 @@
+.group-9 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.group-9 .buy-btn{
+    margin: 32px 0 0;
+}
+
+.group-9:hover+.cover__overlay {
+    opacity: 0.8;
+}
