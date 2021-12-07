@@ -10,8 +10,15 @@
 
 .group-9 .buy-btn{
     margin: 32px 0 0;
+    padding: 13px 20px;
 }
 
 .group-9:hover+.cover__overlay {
     opacity: 0.8;
+}
+
+@media screen and (max-width: 320px) {
+    .group-9 .buy-btn {
+        margin: 16px 0 0;
+    }
 }

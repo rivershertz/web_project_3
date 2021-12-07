@@ -7,9 +7,25 @@
     justify-content: center;
     align-items: center;
     background-image: url(../../images/cover_image.png);
+    background-size: cover;
     position: relative;
 }
 
 .cover:hover .cover__overlay{
     opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        max-width: 100%;
+        max-height: 746px;
+        margin: 92px 0 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover {
+        max-width: 100%;
+        max-height: 254px;
+    }
 }

@@ -11,3 +11,11 @@
     grid-column: 1;
     cursor: pointer;
 }
+
+@media screen and (max-width: 320px) {
+    .buy-btn {
+        max-width: 100%;
+        padding: 13px 40px;
+        margin: 0 16px;
+    }
+}

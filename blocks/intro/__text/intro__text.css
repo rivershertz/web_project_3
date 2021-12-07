@@ -1,4 +1,5 @@
 .intro__text {
+    max-width: 100%;
     margin: 40px 0 0;
     padding: 0;
     font-family: Inter;
@@ -18,4 +19,15 @@
     font-size: 16px;
     line-height: 163%;
     margin-top: 32px;
+}
+
+@media screen and (max-width: 320px) {
+    .intro__text {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .intro__text:nth-of-type(2n) {
+        line-height: 34px;
+    }
 }
