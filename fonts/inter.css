@@ -5,6 +5,10 @@
   font-display: swap;
   src: url("Inter-Regular.woff2?v=3.19") format("woff2"),
        url("Inter-Regular.woff?v=3.19") format("woff");
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -14,6 +18,10 @@
   font-display: swap;
   src: url("Inter-SemiBold.woff2?v=3.19") format("woff2"),
        url("Inter-SemiBold.woff?v=3.19") format("woff");
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
 
 @font-face {
@@ -23,4 +31,9 @@
   font-display: swap;
   src: url("Inter-Black.woff2?v=3.19") format("woff2"),
        url("Inter-Black.woff?v=3.19") format("woff");
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
+
