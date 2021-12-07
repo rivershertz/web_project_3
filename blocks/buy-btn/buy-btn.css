@@ -11,6 +11,9 @@
     grid-column: 1;
     cursor: pointer;
 }
+.buy-btn:hover {
+    background: #004391;
+}
 
 @media screen and (max-width: 320px) {
     .buy-btn {

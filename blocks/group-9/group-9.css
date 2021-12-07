@@ -19,6 +19,6 @@
 
 @media screen and (max-width: 320px) {
     .group-9 .buy-btn {
-        margin: 16px 0 0;
+        margin-top: 16px;
     }
 }
