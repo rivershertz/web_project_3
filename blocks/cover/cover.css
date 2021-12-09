@@ -6,9 +6,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background-image: url(../../images/cover_image.png);
     background-size: cover;
     position: relative;
+}
+
+.cover .buy-btn {
+    margin: 32px 0 0;
+    z-index: 1;
 }
 
 .cover:hover .cover__overlay{

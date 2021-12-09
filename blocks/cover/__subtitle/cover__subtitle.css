@@ -1,4 +1,4 @@
-.group-9__subtitle {
+.cover__subtitle {
     max-width: 280px;
     font-family: Inter;
     font-style: normal;
@@ -9,14 +9,15 @@
     color: #FFFFFF;
     margin: 0;
     padding: 0;
+    z-index: 1;
 }
 
-.group-9__subtitle:nth-of-type(n1) {
+.cover__subtitle:nth-of-type(n1) {
     margin: 32px 0 0;
 }
 
 @media screen and (max-width: 320px) {
-    .group-9__subtitle {
+    .cover__subtitle {
         font-size: 14px;
         line-height: 16px;
         margin-top: 16px;

@@ -1,4 +1,4 @@
-.group-9__title {
+.cover__title {
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
@@ -8,10 +8,11 @@
     color: #FFFDFD;
     margin: 0;
     padding: 0;
+    z-index: 1;
 }
 
 @media screen and (max-width: 320px) {
-    .group-9__title {
+    .cover__title {
         font-size: 32px;
         line-height: 35px;
     }
