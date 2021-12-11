@@ -1,12 +1,12 @@
-.place__p-list {
+.place__description {
     margin: 0;
     padding: 0;
     grid-column: 2;
     grid-row: span 2;
 }
 
-@media screen and (max-width: 320px){
-    .place__p-list {
+@media screen and (max-width: 580px) {
+    .place__description {
         grid-column: 1;
         padding: 0 16px 0;
     }

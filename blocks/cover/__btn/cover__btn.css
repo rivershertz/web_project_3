@@ -1,0 +1,10 @@
+.cover__btn {
+    margin: 32px 0 0;
+    z-index: 1;
+}
+
+@media screen and (max-width: 320px) {
+    .cover__btn {
+        margin: 16px auto 0;
+    }
+}

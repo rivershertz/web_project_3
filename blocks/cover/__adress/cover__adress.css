@@ -1,0 +1,12 @@
+.cover__adress {
+    padding: 0;
+    margin: 32px 0 0;
+    list-style-type: none;
+    z-index: 1;
+}
+
+@media screen and (max-width: 320px) {
+    .cover__adress {
+        margin-top: 16px;
+    }
+}

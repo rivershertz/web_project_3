@@ -1,5 +1,5 @@
 ## Project 3:
-#(https://rivershertz.github.io/web_project_3/"From Homeland to Homeland") 
+# [From Homeland to Homeland](https://rivershertz.github.io/web_project_3/) 
 ### Responsive web design
 
 #### Description

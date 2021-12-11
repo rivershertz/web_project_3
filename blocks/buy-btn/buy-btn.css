@@ -11,6 +11,13 @@
     grid-column: 1;
     cursor: pointer;
     text-decoration: none;
+    font-family: "inter", Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    box-sizing: border-box;
 }
 .buy-btn:hover {
     background: #004391;
@@ -20,6 +27,6 @@
     .buy-btn {
         max-width: 100%;
         padding: 13px 40px;
-        margin: 0 16px;
+        margin: 30px auto 0;
     }
 }

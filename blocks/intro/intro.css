@@ -2,6 +2,7 @@
     max-width: 984px;
     margin: 92px auto 0;
     padding: 0;
+    font-family: "inter", Arial, sans-serif;
 }
 
 @media screen and (max-width: 1060px) {
