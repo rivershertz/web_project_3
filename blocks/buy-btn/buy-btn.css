@@ -25,8 +25,8 @@
 
 @media screen and (max-width: 320px) {
     .buy-btn {
-        max-width: 100%;
-        padding: 13px 40px;
-        margin: 30px auto 0;
+        max-width: 137px;
+        padding: 13px 20px;
+        margin: auto 0;
     }
 }

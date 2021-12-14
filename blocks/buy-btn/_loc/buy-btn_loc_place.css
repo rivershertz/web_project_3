@@ -1,3 +1,11 @@
 .buy-btn_loc_place {
     grid-column: 1;
 }
+
+@media screen and (max-width:320px) {
+    .buy-btn_loc_place {
+        max-width: 100%;
+        padding: 13px 40px;
+        margin: 0 auto;
+    }
+}

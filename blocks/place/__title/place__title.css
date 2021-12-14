@@ -6,6 +6,7 @@
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
+    align-self: flex-end;
 }
 
 @media screen and (max-width: 768px) {
