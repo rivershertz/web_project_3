@@ -12,10 +12,3 @@
 .place__artist:hover {
     color: #AAAAAA;
 }
-
-@media screen and (max-width: 768px) {
-    .place__artist {
-        font-size: 12px;
-        line-height: 15px;
-    }
- }
